@@ -49,6 +49,7 @@ A curated directory of free and open-source AI agent tools. Each tool name links
 
 | Tool | What it does | Free/open-source status |
 |---|---|---|
+| [HeyGen](https://www.heygen.com/) | AI video platform for creating avatar videos, talking-head videos, translations, and personalized video content. | Free tier available |
 | [Remotion](https://www.remotion.dev/) | AI/video-programming framework for building motion graphics and video editors with React. | Open source core |
 
 ## How to add a tool
