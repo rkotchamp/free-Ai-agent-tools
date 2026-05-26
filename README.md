@@ -8,6 +8,7 @@ A curated directory of free and open-source AI agent tools. Each tool name links
 
 | Tool | What it does | Free/open-source status |
 |---|---|---|
+| [Hermes Agent](https://github.com/NousResearch/hermes-agent) | Nous Research's open-source personal AI agent for terminal, messaging platforms, coding, research, automation, tools, memory, skills, and scheduled tasks. | Open source project |
 | [OpenClaw](https://github.com/openclaw/openclaw) | Personal AI assistant gateway for connecting AI agents to messaging channels and local tools. | Open source project |
 | [OpenHands](https://www.all-hands.dev/) | AI software engineering assistant that can edit code, run commands, browse, and automate development tasks. | Open source project |
 | [AutoGPT](https://agpt.co/) | Platform and toolkit for creating, deploying, and managing autonomous personal or task-focused AI agents. | Open source project |
