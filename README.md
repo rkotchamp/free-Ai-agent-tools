@@ -23,6 +23,9 @@ A curated directory of free and open-source AI agent tools. Each tool name links
 | [CAMEL-AI](https://www.camel-ai.org/) | Multi-agent research and development framework for communicative AI agents. | Open source framework |
 | [MetaGPT](https://github.com/geekan/MetaGPT) | Multi-agent framework that simulates a software company workflow. | Open source project |
 | [Semantic Kernel](https://learn.microsoft.com/semantic-kernel/) | Microsoft SDK for building AI agents and integrating LLMs with plugins, memory, and planners. | Open source SDK |
+| [Agno](https://github.com/agno-agi/agno) | Lightweight framework for building multi-agent systems with memory, knowledge, tools, and reasoning. | Open source framework |
+| [Pydantic AI](https://pydantic.dev/docs/ai/overview/) | Python agent framework from the Pydantic team for building production-grade LLM applications. | Open source framework |
+| [Mastra](https://mastra.ai/) | TypeScript framework for building AI agents, workflows, RAG apps, and evaluations. | Open source framework |
 
 ## RAG and data-connected AI agents
 
@@ -39,6 +42,14 @@ A curated directory of free and open-source AI agent tools. Each tool name links
 | [Dify](https://dify.ai/) | Visual platform for building AI agents, RAG apps, workflows, and chatbots. | Open source/self-hostable |
 | [Flowise](https://flowiseai.com/) | Low-code visual builder for LLM flows, chatbots, agents, and RAG workflows. | Open source/self-hostable |
 | [n8n](https://n8n.io/) | Workflow automation platform that can connect AI agents, APIs, apps, and business processes. | Source-available/self-hostable |
+| [Composio](https://composio.dev/) | Tool integration platform for connecting AI agents to apps, APIs, auth, and actions. | Free tier available |
+
+## Browser and computer-use agents
+
+| Tool | What it does | Free/open-source status |
+|---|---|---|
+| [Browser Use](https://github.com/browser-use/browser-use) | Framework for letting AI agents control browsers and automate web tasks. | Open source project |
+| [Julep](https://github.com/julep-ai/julep) | Platform for building long-running AI agents with workflows, memory, and tool use. | Open source project |
 
 ## Conversational AI assistants
 
@@ -69,7 +80,7 @@ Before adding a new tool:
 
 ## Update policy
 
-This list is intended to be updated weekly with verified links and sources. New additions should be checked for:
+This list is intended to be updated daily with verified links and sources. New additions should be checked for:
 
 - Official source URL
 - Duplicate entry
