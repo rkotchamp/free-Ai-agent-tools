@@ -12,6 +12,9 @@ A curated directory of free and open-source AI agent tools. Each tool name links
 | [OpenClaw](https://github.com/openclaw/openclaw) | Personal AI assistant gateway for connecting AI agents to messaging channels and local tools. | Open source project |
 | [OpenHands](https://www.all-hands.dev/) | AI software engineering assistant that can edit code, run commands, browse, and automate development tasks. | Open source project |
 | [AutoGPT](https://agpt.co/) | Platform and toolkit for creating, deploying, and managing autonomous personal or task-focused AI agents. | Open source project |
+| [Open WebUI](https://github.com/open-webui/open-webui) | Self-hosted AI chat interface for Ollama, OpenAI-compatible APIs, local models, and tools. | Source-available/self-hostable |
+| [LibreChat](https://github.com/danny-avila/LibreChat) | Self-hostable multi-model AI chat platform with agents, MCP, tools, and model switching. | Open source/self-hostable |
+| [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) | Local-first AI workspace for chat, agents, documents, and private knowledge bases. | Source-available/self-hostable |
 
 ## Multi-agent frameworks
 
@@ -34,6 +37,9 @@ A curated directory of free and open-source AI agent tools. Each tool name links
 | [LangChain](https://www.langchain.com/) | Developer framework for LLM applications, agents, tools, chains, and retrieval systems. | Open source framework |
 | [LlamaIndex](https://www.llamaindex.ai/) | Data framework for connecting private data to LLM apps, agents, and RAG systems. | Open source framework |
 | [Haystack](https://haystack.deepset.ai/) | Framework for production-ready LLM, RAG, search, and agentic applications. | Open source framework |
+| [Crawl4AI](https://github.com/unclecode/crawl4ai) | LLM-friendly web crawler and scraper for collecting web data for AI apps and RAG systems. | Open source project |
+| [Firecrawl](https://github.com/firecrawl/firecrawl) | Web search, scraping, and crawling API for turning web content into LLM-ready data. | Open source project; hosted free tier available |
+| [mem0](https://github.com/mem0ai/mem0) | Memory layer for AI agents that helps personalize responses and preserve useful context. | Open source project |
 
 ## Low-code AI workflow builders
 
@@ -41,6 +47,7 @@ A curated directory of free and open-source AI agent tools. Each tool name links
 |---|---|---|
 | [Dify](https://dify.ai/) | Visual platform for building AI agents, RAG apps, workflows, and chatbots. | Open source/self-hostable |
 | [Flowise](https://flowiseai.com/) | Low-code visual builder for LLM flows, chatbots, agents, and RAG workflows. | Open source/self-hostable |
+| [Langflow](https://github.com/langflow-ai/langflow) | Visual builder for creating, testing, and deploying AI agents and LLM workflows. | Source-available/self-hostable |
 | [n8n](https://n8n.io/) | Workflow automation platform that can connect AI agents, APIs, apps, and business processes. | Source-available/self-hostable |
 | [Composio](https://composio.dev/) | Tool integration platform for connecting AI agents to apps, APIs, auth, and actions. | Free tier available |
 
@@ -49,6 +56,7 @@ A curated directory of free and open-source AI agent tools. Each tool name links
 | Tool | What it does | Free/open-source status |
 |---|---|---|
 | [Browser Use](https://github.com/browser-use/browser-use) | Framework for letting AI agents control browsers and automate web tasks. | Open source project |
+| [Stagehand](https://github.com/browserbase/stagehand) | SDK for building browser agents that can combine code, AI actions, and web automation. | Open source project |
 | [Julep](https://github.com/julep-ai/julep) | Platform for building long-running AI agents with workflows, memory, and tool use. | Open source project |
 
 ## Conversational AI assistants
